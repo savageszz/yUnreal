@@ -6,10 +6,7 @@ What's up, I am Unreal (he/him), and I am a back-end dev, usually using [TypeScr
 
 Here is a brief summary of my personal projects and projects I participate in:
 
-[Jast](https://github.com/jastts/jast) is a fully typed language for making bots for Discord.
-[JastCore](https://github.com/jastts/jast/tree/main/packages/core) is a NodeJs library for interact with Discord API.
-
-I also maintain and write some stuff in Simo [API](https://github.com/Simo-Workspace/Botlist-Api), an API to provide information to the Simo's website.
+I maintain and write some stuff in Simo [API](https://github.com/Simo-Workspace/Botlist-Api), an API to provide information to the Simo's website.
 
 > Try exploring my [repositories](https://github.com/yUnreal?tab=repositories) for more information about my projects!
 
@@ -21,6 +18,6 @@ I also maintain and write some stuff in Simo [API](https://github.com/Simo-Works
 
 ## How to find me
 
-🖐 My username on Discord in [`unreau`](https://discord.com/users/963124227911860264).
+🖐 My username on Discord in [`meunreau`](https://discord.com/users/963124227911860264).
 
 📧 unrealwebdev@gmail.com
