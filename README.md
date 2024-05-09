@@ -6,18 +6,19 @@ What's up, I am Unreal (he/him), and I am a back-end dev, usually using [TypeScr
 
 Here is a brief summary of my personal projects and projects I participate in:
 
-I maintain and write some stuff in Simo [API](https://github.com/Simo-Workspace/Botlist-Api), an API to provide information to the Simo's website.
+Creator of [Global Bot](https://github.com/globalworkspace) project.
+I used to maintain and write some stuff in Simo [API](https://github.com/Simo-Workspace/Botlist-Api), an API to provide information to the Simo's website.
 
 > Try exploring my [repositories](https://github.com/yUnreal?tab=repositories) for more information about my projects!
 
 ### Notes ✍
 
+- Always on Discord
 - Started coding in **2022**
 - Willing to learn new things and work in open-source projects
-- Always on Discord
 
 ## How to find me
 
-🖐 My username on Discord in [`meunreau`](https://discord.com/users/963124227911860264).
+🖐 My username on Discord is [`unnreaal`](https://discord.com/users/963124227911860264).
 
-📧 unrealwebdev@gmail.com
+📧 Email: unrealwebdev@gmail.com
