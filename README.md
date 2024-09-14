@@ -8,12 +8,9 @@ What's up, I am Unreal (he/him), and I am a back-end dev, usually using [TypeScr
 
 ### Notes ✍
 
-- Always on Discord
-- Started coding in **2022**
-- Willing to learn new things and work in open-source projects
+- Started coding in **2023**.
+- Willing to learn new things and work in open-source projects.
 
 ## How to find me
-
-🖐 My username on Discord is [`unnreaal`](https://discord.com/users/963124227911860264).
 
 📧 Email: unrealwebdev@gmail.com
