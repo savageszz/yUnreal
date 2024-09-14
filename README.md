@@ -4,11 +4,6 @@ What's up, I am Unreal (he/him), and I am a back-end dev, usually using [TypeScr
 
 ## Recently...
 
-Here is a brief summary of my personal projects and projects I participate in:
-
-Creator of [Global Bot](https://github.com/globalworkspace) project.
-I used to maintain and write some stuff in Simo [API](https://github.com/Simo-Workspace/Botlist-Api), an API to provide information to the Simo's website.
-
 > Try exploring my [repositories](https://github.com/yUnreal?tab=repositories) for more information about my projects!
 
 ### Notes ✍
