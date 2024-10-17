@@ -1,6 +1,6 @@
 # Me
 
-What's up, I am Unreal (he/him), and I am a back-end dev, usually using [TypeScript](https://www.typescriptlang.org/) (and JavaScript) in NodeJs environment, I've also experimented with [Kotlin](https://kotlinlang.org/) a bit of [Rust](https://www.rust-lang.org/) 🦀. I've been developing stuff for a considerable amount of time, usually doing things related to the Discord API.
+What's up, I am Unreal (he/him), and I am a back-end dev, usually using [TypeScript](https://www.typescriptlang.org/) (and JavaScript) in NodeJs/Bun environment, I've also experimented with [Kotlin](https://kotlinlang.org/) a bit of [Rust](https://www.rust-lang.org/) 🦀. I've been developing stuff for a considerable amount of time, usually doing things related to the Discord API.
 
 ## Recently...
 
