@@ -1,16 +1,15 @@
-# Me
+**Make each day unique**
 
-What's up, I am Unreal (he/him), and I am a back-end dev, usually using [TypeScript](https://www.typescriptlang.org/) (and JavaScript) in NodeJs/Bun environment, I've also experimented with [Kotlin](https://kotlinlang.org/) a bit of [Rust](https://www.rust-lang.org/) 🦀. I've been developing stuff for a considerable amount of time, usually doing things related to the Discord API.
+Who am I? I'm Hiago, popularly known as **unreal**. My goal as a software developer is to make every day unique and special, solving real community problems, contributing to open source projects, writing unique things. TypeScript and I, we are almost like a couple, something inseparable. My main language will always be TypeScript, because it is so easy to learn and because of its enormous complexity in its types.
 
-## Recently...
+What do I do? I usually create packages to make other developers' lives easier. But I also love sharing my knowledge with other users (Especially on Discord), about databases, TypeScript, runtimes and others.
 
-> Try exploring my [repositories](https://github.com/yUnreal?tab=repositories) for more information about my projects!
+**Create the Next One**
 
-### Notes ✍
+Just like me, you too can create the next big thing for the market. Learning is never enough. This year I experienced a lot of interesting things, like type complexity, I wrote my own validation library with Bun **([Novi](https://github.com/yUnreal/novi))**, I learned Rust, but none of that is enough, we must be hungry for knowledge.
 
-- Started coding in **2023**.
-- Willing to learn new things and work in open-source projects.
+**What's Next?**
 
-## How to find me
+In 2025, I plan to be a new developer. My goal is to create a package that makes it easier to interact with mongodb, directly with Bun.
 
-📧 Email: unrealwebdev@gmail.com
+If you have any question or want to contribute with something, don't hesitate to message me on **X** or **Discord**.
