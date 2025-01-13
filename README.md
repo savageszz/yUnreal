@@ -10,6 +10,6 @@ Just like me, you too can create the next big thing for the market. Learning is 
 
 **What's Next?**
 
-In 2025, I plan to be a new developer. My goal is to create a package that makes it easier to interact with mongodb, directly with Bun.
+In 2025, I plan to be a new developer. My goal is to create an innovation related to music.
 
-If you have any abour Rust, TypeScript, JavaScript, NodeJS, Bun, Deno, Kotlink, MongoDB, ORMs and others or just want to contribute with something, don't hesitate to message me on **X** or **Discord**.
+If you have any about Rust, TypeScript, JavaScript, NodeJS, Bun, Deno, Kotlink, MongoDB, PostgreeSQL, ORMs and others or just want to contribute with something, don't hesitate to message me on **X** or **Discord**.
