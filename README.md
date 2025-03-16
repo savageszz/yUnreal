@@ -1,6 +1,6 @@
 **Make each day unique**
 
-Who am I? I'm Hiago, popularly known as **unreal**. My goal as a software developer is to make every day unique and special, solving real community problems, contributing to open source projects, writing unique things. TypeScript and I, we are almost like a couple, something inseparable. My main language will always be TypeScript, because it is so easy to learn and because of its enormous complexity in its types.
+Who am I? I'm Hiago, popularly known as **savage**. My goal as a software developer is to make every day unique and special, solving real community problems, contributing to open source projects, writing unique things. TypeScript and I, we are almost like a couple, something inseparable. My main language will always be TypeScript, because it is so easy to learn and because of its enormous complexity in its types.
 
 What do I do? I usually create packages to make other developers' lives easier. But I also love sharing my knowledge with other users (Especially on Discord), about databases, TypeScript, runtimes and others.
 
@@ -12,4 +12,4 @@ Just like me, you too can create the next big thing for the market. Learning is 
 
 In 2025, I plan to be a new developer. My goal is to create an innovation related to music.
 
-If you have any about Rust, TypeScript, JavaScript, NodeJS, Bun, Deno, Kotlink, MongoDB, PostgreeSQL, ORMs and others or just want to contribute with something, don't hesitate to message me on **X** or **Discord**.
+If you have any about Rust, TypeScript, JavaScript, NodeJS, Bun, Deno, Kotlink, MongoDB, PostgreeSQL, ORMs, Compilers, and others or just want to contribute with something, don't hesitate to message me on **X** or **Discord**.
